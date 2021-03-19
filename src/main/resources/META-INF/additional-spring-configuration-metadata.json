@@ -1,0 +1,38 @@
+{
+  "properties": [
+    {
+      "name": "zzzyuan.jwt.secret",
+      "type": "java.lang.String",
+      "description": "Description for zzzyuan.jwt.secret."
+    },
+    {
+      "name": "zzzyuan.jwt.expire",
+      "type": "java.lang.String",
+      "description": "Description for zzzyuan.jwt.expire."
+    },
+    {
+      "name": "zzzyuan.jwt.header",
+      "type": "java.lang.String",
+      "description": "Description for zzzyuan.jwt.header."
+    },
+    {
+      "name": "shiro-redis.enabled",
+      "type": "java.lang.String",
+      "description": "Description for shiro-redis.enabled."
+    },
+    {
+      "name": "shiro-redis.redis-manager.host",
+      "type": "java.lang.String",
+      "description": "Description for shiro-redis.redis-manager.host."
+    },
+    {
+      "name": "shiro-redis.redis-manager.password",
+      "type": "java.lang.String",
+      "description": "Description for shiro-redis.redis-manager.password."
+    },
+    {
+      "name": "servlet.context-path",
+      "type": "java.lang.String",
+      "description": "Description for servlet.context-path."
+    }
+  ] }
